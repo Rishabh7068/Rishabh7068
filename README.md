@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rishabh Rathore</h1>
-<h3 align="center"> <br> 🚀 B.Tech (CSE) Student | Seeking Internship Opportunities <br>
+<h3 align="left"> <br> 🚀 B.Tech (CSE) Student | Seeking Internship Opportunities <br><br>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 Hello! 👋 I'm Rishabh Rathore, a third-year Computer Science Engineering student passionate about technology's transformative potential. My academic journey has equipped me with a strong foundation in algorithms, programming languages, and a curiosity to explore the latest tech trends. <br> <br><br>
 🔍 Skills Snapshot: <br> I'm eager to apply my skills to real-world scenarios.I thrive in challenging environments that encourage innovation, problem-solving, and continuous learning. <br><br><br>
