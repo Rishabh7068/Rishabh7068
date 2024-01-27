@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 B.Tech (CSE) Student | Seeking Internship Opportunities Hello! 👋 I'm Rishabh Rathore, a third-year Computer Science Engineering student passionate about technology's transformative potential. My academic journey has equipped me with a strong foundation in algorithms, programming languages, and a curiosity to explore the latest tech trends. 🔍 Skills Snapshot: I'm eager to apply my skills to real-world scenarios. I thrive in challenging environments that encourage innovation, problem-solving, and continuous learning. 🛠️ Internship Aspirations: I'm currently seeking internship roles to apply and expand my knowledge. I'm confident that hands-on experience will not only enhance my skills but also provide valuable industry insights. 🌐 Connect with Purpose: I believe in the power of networking and collaboration. If you share a passion for technology or have insights to offer, let's connect and explore potential opportunities to learn and grow together. Let's build something amazing!</h3>
+
+- 📫 How to reach me **rishabhrathore7905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
