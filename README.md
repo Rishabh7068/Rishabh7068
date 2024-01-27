@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.vectorstock.com/i/1000x1000/40/15/banner-software-development-programming-web-site-vector-38004015.webp)
+![MasterHead](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)
 
 <h1 align="left">Hi 👋, I'm Rishabh Rathore</h1>
 <h3 align="left"> <br> 🚀 B.Tech (CSE) Student | Seeking Internship Opportunities <br><br>
