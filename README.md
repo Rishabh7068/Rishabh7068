@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
 <h3 align="center"> <br> 🚀 B.Tech (CSE) Student | Seeking Internship Opportunities <br>
-Hello! 👋 I'm Rishabh Rathore, a third-year Computer Science Engineering student passionate about technology's transformative potential. My academic journey has equipped me with a strong foundation in algorithms, programming languages, and a curiosity to explore the latest tech trends. <br> 
-🔍 Skills Snapshot: <br> I'm eager to apply my skills to real-world scenarios.I thrive in challenging environments that encourage innovation, problem-solving, and continuous learning. <br>
-🛠️ Internship Aspirations:<br> I'm currently seeking internship roles to apply and expand my knowledge. I'm confident that hands-on experience will not only enhance my skills but also provide valuable industry insights.<br>
-  🌐 Connect with Purpose:<br> I believe in the power of networking and collaboration. If you share a passion for technology or have insights to offer, let's connect and explore potential opportunities to learn and grow together. Let's build something amazing!</h3><br><br>
+Hello! 👋 I'm Rishabh Rathore, a third-year Computer Science Engineering student passionate about technology's transformative potential. My academic journey has equipped me with a strong foundation in algorithms, programming languages, and a curiosity to explore the latest tech trends. <br> <br><br>
+🔍 Skills Snapshot: <br> I'm eager to apply my skills to real-world scenarios.I thrive in challenging environments that encourage innovation, problem-solving, and continuous learning. <br><br><br>
+🛠️ Internship Aspirations:<br> I'm currently seeking internship roles to apply and expand my knowledge. I'm confident that hands-on experience will not only enhance my skills but also provide valuable industry insights.<br><br><br>
+  🌐 Connect with Purpose:<br> I believe in the power of networking and collaboration. If you share a passion for technology or have insights to offer, let's connect and explore potential opportunities to learn and grow together. Let's build something amazing!</h3><br><br><br>
 
 - 📫 How to reach me **rishabhrathore7905@gmail.com**
 
